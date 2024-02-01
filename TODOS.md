@@ -1,0 +1,10 @@
+- add drag bounds to chords (and manipulate position)
+- hightlight text position while drag
+- finalize line data structure
+- add first parser/converter
+- add chord to line (maybe with key limit)
+- add new line
+- add section
+- edit chord
+- add copy
+- maybe save in local storage
