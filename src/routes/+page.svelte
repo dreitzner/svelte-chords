@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import Row from '$lib/components/Row.svelte';
+</script>
+<!--           G/B-0     C-9 -->
+<Row textLine="Jesus we love You" chordsSorted={[{chord: 'G/B', position: 0}, {chord: 'C', position: 9}]}/>
